@@ -9,6 +9,7 @@
     "deploy": "hardhat run scripts/deploy.js",
     "deploy:local": "hardhat run scripts/deploy.js --network localhost",
     "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy:somnia": "hardhat run scripts/deploy.js --network somnia",
     "deploy:verify": "hardhat run scripts/deploy-and-verify.js",
     "deploy:verify:local": "hardhat run scripts/deploy-and-verify.js --network localhost",
     "deploy:verify:sepolia": "hardhat run scripts/deploy-and-verify.js --network sepolia",

@@ -22,6 +22,12 @@ const config: HardhatUserConfig = {
     sepolia: {
       url: process.env.SEPOLIA_URL || "",
       accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []
+    },
+    somnia: {
+      url: process.env.SOMNIA_RPC_URL || "https://dream-rpc.somnia.network/",
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
+      chainId: 50311, // Somnia mainnet chain ID
+      gasPrice: "auto"
     }
   },
   etherscan: {
