@@ -216,7 +216,23 @@ The contract can be deployed to:
 
 - **Local Hardhat Network**: For development and testing
 - **Sepolia Testnet**: For testing on a public testnet
+- **Somnia Blockchain**: High-performance EVM-compatible L1 blockchain (1M+ TPS)
 - **Mainnet**: For production use (modify network config)
+
+### Somnia Blockchain
+
+[Somnia](https://docs.somnia.network/) is a high-performance, cost-efficient EVM-compatible Layer 1 blockchain capable of processing over 1,000,000 transactions per second (TPS) with sub-second finality. It is ideal for building real-time mass-consumer applications like games, social applications, metaverses, and more, all fully on-chain.
+
+**Key Features:**
+- 1M+ TPS with sub-second finality
+- EVM-compatible - works with existing Ethereum tools
+- Cost-efficient gas fees
+- Perfect for high-throughput applications
+
+**Network Information:**
+- RPC URL: `https://dream-rpc.somnia.network/`
+- Explorer: `https://shannon-explorer.somnia.network/`
+- Chain ID: 50311
 
 ### Deployment Module
 
