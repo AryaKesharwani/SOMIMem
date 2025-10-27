@@ -1,4 +1,4 @@
-# EthMem - Decentralized Memory for AI Interactions
+# SOMIMem - Decentralized Memory for AI Interactions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15.5.4-black)](https://nextjs.org/)
